@@ -1,3 +1,3 @@
 # test2
 
-Git flow 5
+Git flow 2.4
