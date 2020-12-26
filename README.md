@@ -1,3 +1,3 @@
 # test2
 
-Git flow 1
+Git flow 2
